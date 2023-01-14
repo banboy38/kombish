@@ -1,0 +1,47 @@
+JS
+document.getElement______.style,.innerHTML,classList etc
+
+const, let
+var
+
+operators
+
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
+
+Function:
+arrow function
+
+Object: Dictionary/Map
+
+Arrays:
+push/pop
+shift/unshift
+splice/slice
+Math module
+map method
+filter method
+lastindexof/find
+forEach
+https://www.w3schools.com/jsref/jsref_obj_array.asp
+
+Conditionals:
+if else
+switch case
+
+Loops:
+for
+for in -> used for objects
+for of -> used for arrays
+while
+
+DS:
+new Set() -> add, delete, has
+new Map() -> set, get
+
