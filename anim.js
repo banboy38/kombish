@@ -92,3 +92,10 @@ function scaleDown3(){
 // a.add('hemlo')
 
 // console.log(a)
+
+// =================================================
+
+function change()
+{
+    
+}
